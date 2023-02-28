@@ -1,10 +1,10 @@
 string hungrey = "yes"
 
-if(hungrey == "yes")
+if(hungrey == "yes" || hungrey == "y" || hungrey == "Y")
 {
-    print("eat something")
+    print("eat something...")
 }
 else
 {
-    print("do work")
+    print("do work...")
 }
