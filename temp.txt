@@ -1,0 +1,10 @@
+string hungrey = "yes"
+
+if(hungrey == "yes")
+{
+    print("eat something")
+}
+else
+{
+    print("do work")
+}
