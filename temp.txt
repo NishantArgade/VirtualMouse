@@ -1,6 +1,6 @@
 string hungrey = "yes"
 
-if(hungrey == "yes" || hungrey == "y")
+if(hungrey == "yes" || hungrey == "y" || hungrey == "Y")
 {
     print("eat something...")
 }
